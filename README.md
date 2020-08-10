@@ -1,3 +1,26 @@
+## rqt_robot_monitor (dashing) - 1.0.2-1
+
+The packages in the `rqt_robot_monitor` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --rosdistro dashing --track dashing rqt_robot_monitor --edit` on `Mon, 10 Aug 2020 06:34:06 -0000`
+
+The `rqt_robot_monitor` package was released.
+
+Version of package(s) in repository `rqt_robot_monitor`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_monitor.git
+- release repository: https://github.com/ros2-gbp/rqt_robot_monitor-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.1-1`
+- new version: `1.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## rqt_robot_monitor (foxy) - 1.0.1-1
 
 The packages in the `rqt_robot_monitor` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy --track foxy rqt_robot_monitor --edit` on `Sat, 13 Jun 2020 08:47:56 -0000`
