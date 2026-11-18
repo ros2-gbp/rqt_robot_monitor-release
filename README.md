@@ -1,3 +1,26 @@
+## rqt_robot_monitor (lyrical) - 1.0.7-1
+
+The packages in the `rqt_robot_monitor` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release --rosdistro lyrical --track lyrical rqt_robot_monitor --edit` on `Wed, 18 Nov 2026 23:49:02 -0000`
+
+The `rqt_robot_monitor` package was released.
+
+Version of package(s) in repository `rqt_robot_monitor`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_monitor.git
+- release repository: https://github.com/ros2-gbp/rqt_robot_monitor-release.git
+- rosdistro version: `1.0.6-3`
+- old version: `1.0.6-3`
+- new version: `1.0.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_robot_monitor (rolling) - 1.0.6-1
 
 The packages in the `rqt_robot_monitor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling rqt_robot_monitor --edit` on `Wed, 15 May 2024 09:27:39 -0000`
